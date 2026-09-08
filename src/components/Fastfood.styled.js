@@ -25,7 +25,7 @@ gap: 15px;
 background-color: black;
 border-radius: 20px;
 padding: 10px 20px;
-margin-bottom: 20px;
+margin-bottom: 21px;
 `
 export const Active = styled.p`
 background-color: white;
