@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Іван Петренко",
+    "age": 20,
+    "isOnline": true,
+    "role": "student",
+    "points": 95
+  },
+  {
+    "id": 2,
+    "name": "Марія Коваль",
+    "age": 22,
+    "isOnline": false,
+    "role": "teacher",
+    "points": 120
+  },
+  {
+    "id": 3,
+    "name": "Петро Сидоренко",
+    "age": 19,
+    "isOnline": true,
+    "role": "student",
+    "points": 80
+  },
+  {
+    "id": 4,
+    "name": "Олена Шевченко",
+    "age": 25,
+    "isOnline": false,
+    "role": "admin",
+    "points": 200
+  },
+  {
+    "id": 5,
+    "name": "Андрій Мельник",
+    "age": 21,
+    "isOnline": true,
+    "role": "student",
+    "points": 60
+  },
+  {
+    "id": 6,
+    "name": "Софія Бондар",
+    "age": 23,
+    "isOnline": false,
+    "role": "teacher",
+    "points": 140
+  },
+  {
+    "id": 7,
+    "name": "Максим Гнатюк",
+    "age": 18,
+    "isOnline": true,
+    "role": "student",
+    "points": 45
+  },
+  {
+    "id": 8,
+    "name": "Наталія Кравець",
+    "age": 27,
+    "isOnline": true,
+    "role": "admin",
+    "points": 250
+  }
+]
