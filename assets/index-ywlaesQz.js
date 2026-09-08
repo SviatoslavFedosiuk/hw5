@@ -49,7 +49,7 @@ gap: 15px;
 background-color: black;
 border-radius: 20px;
 padding: 10px 20px;
-margin-bottom: 20px;
+margin-bottom: 21px;
 `,hr=Wn.p`
 background-color: white;
 color: black;
